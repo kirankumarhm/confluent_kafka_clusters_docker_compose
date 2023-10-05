@@ -45,7 +45,7 @@ After that we can do health check
 
 Once you set Kafka options for the 4 letter words and health check and other required chceks can be done easily.
 
-you will be able to see the logs below
+you will be able to see the logs below  
 `INFO The list of enabled four letter word commands is : [[wchs, stat, wchp, dirs, stmk, conf, ruok, mntr, srvr, wchc, envi, srst, isro, dump, gtmk, telnet close, crst, hash, cons]] (org.apache.zookeeper.server.command.FourLetterCommands)`
 
 Refer the below links for 4 letter words  
