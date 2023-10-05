@@ -43,6 +43,16 @@ After that we can do health check
       retries: 10
 ```
 
+Once you set Kafka options for the 4 letter words and health check and other required chceks can be done easily.
+
+you will be able to see the logs below
+`INFO The list of enabled four letter word commands is : [[wchs, stat, wchp, dirs, stmk, conf, ruok, mntr, srvr, wchc, envi, srst, isro, dump, gtmk, telnet close, crst, hash, cons]] (org.apache.zookeeper.server.command.FourLetterCommands)`
+
+Refer the below links for 4 letter words  
+1. https://zookeeper.apache.org/doc/current/zookeeperAdmin.html#sc_4lw  
+2. https://sleeplessbeastie.eu/2021/10/15/how-to-enable-zookeeper-the-four-letter-words/  
+
+
 ### Note :
 If you are running on the AWS ec2 instance then provide the public host name in the EXTERNAL
 
